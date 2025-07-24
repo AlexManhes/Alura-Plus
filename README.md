@@ -1,18 +1,14 @@
 
-# Alura-Plus
-Projeto pratica feito através dos cursos 
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
 
-Construi um site utilizando HTML e CSS, aplicando boas práticas de estruturação e estilização.
+<hr>
 
-Identifiquei elementos visuais e estilos com base em um layout criado no Figma.
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
+<p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
 
-Apliquei todos os conhecimentos adquiridos até agora em um projeto prático e funcional.
+## Tecnologias
+* HTML
+* CSS
 
-Criei um repositório no GitHub para versionar e armazenar o código-fonte do projeto.
-
-Realizei o deploy do site utilizando o Github Pages (ou Vercel), tornando-o acessível online.
-
-Compartilhei o meu projeto com o mundo, demonstrando minhas habilidades em desenvolvimento web.
-
-
-Link do projeto: https://alura-plus-gamma-pink-56.vercel.app/
+## Screenshots
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
